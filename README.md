@@ -6,7 +6,7 @@ Your objective is to prevent as many road crashes as possible.
 We have historical data of road crashes. Sample data is given below 
 ``` javascript
 { 
-   "location" : {24.4353, 78.3233}, 
+   "location" : {"latitude" : 24.4353, "longitude" : 78.3233}, 
    "damageRating" : 0.5,
    "killed" : 1, 
    "injured" : 2, 
