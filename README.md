@@ -21,9 +21,4 @@ We want to make this data available for the public use through smart interface j
 >* Everybody has a decent internet connection in their phone
 
 >How to submit the solution
->* Brief about the solution (share how is it useful) max 150 words (README file in code)
->* Share the code through git repository or in zip file with us so we can review the code
->* Screenshots wherever applicable
->* Brief about code structure and architecture.  (README file in code)
->* Anything special you want evaluation team to pay attention to, write that.
-
+>* Make a branch with your username and make a pull request
